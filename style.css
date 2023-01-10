@@ -1,0 +1,43 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    background-color: rgb(247, 230, 210);
+}
+
+body {
+    width: 720px;
+  position: relative;
+  left: 50%;
+  margin-left: -360px;
+}
+
+h1 {
+    font-size: 45px;
+    color: #0A2647;
+}
+
+h2 {
+    color: #227C70;
+}
+
+h3 {
+    color: #88A47C;
+}
+
+p, li {
+    color: #0A2647;
+}
+
+li {
+    font-size: 20px;
+}
+
+ul, ol {
+    list-style-position: inside
+    
+}
+
+img {
+    max-width: 150px;
+    height: auto;
+    }
